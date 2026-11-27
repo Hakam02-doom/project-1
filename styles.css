@@ -2,9 +2,9 @@
 :root{
   --bg:#F8F6FC;          /* page background */
   --ink:#1A1D24;         /* headings / dark text */
-  --muted:#6E6E6E;       /* body copy */
+  --muted:#5C5C5C;       /* body copy */
   --primary:#582DAE;     /* NeatNest purple (big blocks, buttons) */
-  --soft:#8A63D2;        /* lighter purple (tags, badges) */
+  --soft:#7B54C9;        /* lighter purple (tags, badges) */
   --violet:#7B4FD6;      /* accent buttons */
   --gold:#FFBD59;        /* NeatNest gold */
   --gold-soft:#FFDDA3;   /* gold tint for large surfaces */
